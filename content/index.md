@@ -4,7 +4,7 @@
 
 测试一下图床（现在已经成功啦！）
 
-![可爱女孩头像](https://xn--wcso9o.9701853.xyz/PicGO/zFQsHP0K_400x400.jpg)
+![圣三一第一步枪](https://picgo.192168.dpdns.org/PicGO/133782045.jpg)
 
 今天做好国内访问，图片也完美显示了！
 
